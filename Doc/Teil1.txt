@@ -1,0 +1,12 @@
+Genau so machen wir’s – du bekommst jetzt eine komplette, leicht verständliche Schritt-für-Schritt-Anleitung für deinen ersten eigenen Trading-Bot-Baustein.
+Wir bauen das einfachste Grundmodul:
+
+Eine EMA-Trendfolge-Strategie
+
+Mit Logging in CSV
+
+Mit kleinem Risk-Management (TP/SL, Positionsgröße)
+
+Als klar kommentierter Python-Code
+
+Und einer Anleitung, wie du alles in VS Code laufen lässt (inkl. Beispiel-Daten!)

@@ -1,0 +1,59 @@
+Trading-Bot & App-Projekt (Gesamtüberblick)
+Ziel:
+Vollautomatische Trading-Software mit täglichem Gewinn (Compounding), Coin-Rotation (DOGE, SHIB, PEPE, FLOKI usw.), Gewinn-Reinvest, CSV-Export, KI-Integration.
+
+Kernfunktionen:
+
+Automatischer Spot-Bot:
+Nutzt TradingView-Signale (Webhook/API, Pine-Script), entscheidet Long/Short, führt echte Trades aus, reinvestiert Gewinne, exportiert Signale für Machine Learning.
+
+Desktop-App als Steuerzentrale:
+Eine GUI für alles (Trust Wallet, Binance, PancakeSwap, TradingView), mehrere Rotatoren parallel, Chartanzeige, Kapitalberechnung, Tab für Coin-Auswahl, Statistik-Modul, alle Trades und Rotationen sichtbar und steuerbar.
+
+All-in-One Python GUI:
+Alle Funktionen (Auto-Rotation, Live-Preise, Kapital/Kurs-Anzeige, CSV-Logging, Chart, Statistik, Coin-Auswahl) zentral in einer Datei.
+
+Strategien & Indikatoren:
+
+Breaker Blocks, BOS
+
+EMA/SMA, RSI, MACD
+
+Marktstruktur, bullisch/bärisch, Re-Entry
+
+Session-Filter (London/USA/Asien), Zeitzyklen
+
+News-Trading, Scalping, Breakouts, Reversals
+
+KI-Signale, Tickerband mit laufender KI-Analyse
+
+Erweiterte Features:
+
+Leverage & Risiko:
+Automatisches Erkennen & Anwenden von Hebel (1x–500x), abhängig von Chance/Risiko.
+
+Auto-Compounding & Reinvest:
+Gewinne automatisch reinvestieren, nur bei sinnvoller Marktlage.
+
+Datenexport, Statistik, Backtesting:
+Export aller Trades und Signale als CSV, später Backtesting/Papertrading möglich.
+
+Backtesting:
+Später geplante Erweiterung für Strategie-Tests.
+
+Weitere Coding-Projekte:
+
+Stickies-Exporter für Mac:
+Apple Notizen automatisch auslesen & exportieren.
+
+Tagebuch-/Notiz-App (macOS):
+Kostenlos, mit Kalender & Tageseinträgen.
+
+Mining-Setup auf Mac:
+Effizienz & Ertrag prüfen.
+
+Eigene VSCode-Erweiterung / KI lokal:
+GPT lokal in VS Code nutzen, Automatisierung per Klick statt Terminal.
+
+
+/// eventuell alle studieren zu jedem ein projekt machen bis du chronologie durch bis, viel glück!

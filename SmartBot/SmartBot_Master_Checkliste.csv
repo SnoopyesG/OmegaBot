@@ -1,0 +1,9 @@
+Modul / Feature,Status,Beschreibung,Letztes Update,Nächster Schritt,Prio,Kommentar
+Logging,Offen,Alle Trades und Daten erfassen,,Logging-Skript bauen,Hoch,
+Signal-Engine,Offen,"Logik für Ein-/Ausstieg, Strategien",,Erstes Grundgerüst,Hoch,
+Memory/Gedächtnis,Offen,Bot merkt sich Trades & Feedback,,Konzept erstellen,Hoch,
+Rotation-Feature,Offen,Coin-Rotation & Auswahl,,Konzept schreiben,Hoch,
+GUI / Dashboard,Offen,Zentrale Steuerung & Übersicht,,Mockup bauen,Mittel,
+Risk Management,Offen,"TP/SL, Positionsgröße, Sicherheitslogik",,Design aufschreiben,Hoch,
+Backtest-Modul,Offen,Tests und Simulationen aller Strategien,,Grobkonzept,Mittel,
+Feedback-Analyse,Offen,GPT/ML zur Strategie-Optimierung,,GPT-API-Setup,Hoch,
